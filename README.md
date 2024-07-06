@@ -12,7 +12,7 @@ Social Media Integration: Icons for Facebook, Twitter, Instagram, and YouTube.
 Stylish Animations: Smooth transitions and hover effects for an engaging user experience.
 
 Technologies Used
-HTML5
-CSS3
-Font Awesome Icons
+HTML5,
+CSS3,
+Font Awesome Icons and
 Google Fonts
